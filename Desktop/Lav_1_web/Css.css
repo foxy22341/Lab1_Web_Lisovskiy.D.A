@@ -1,0 +1,94 @@
+main{
+    margin: auto;
+    width: 600px;
+    height: 900x;
+    font-family: "Arial";
+    background-color: blue;
+    color: white;
+    overflow: auto;
+
+}
+
+h3.hello{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: rgb(15, 189, 44); 
+    color: rgb(3, 3, 3); 
+    height: 20px; 
+    padding: 0;
+    margin: 0;
+    border: 0;
+   }
+  
+   footer.footer{
+       text-align: center;
+     color: rgb(0, 0, 0);
+    font-size: 20;
+    background-color: rgb(15, 189, 44); 
+    color: rgb(3, 3, 3); 
+    height: 20px;
+    margin: 0;
+    padding: 0;
+   }
+  
+
+   .square {
+        border: 4px solid;
+        border-color: white;
+        width: 120px;
+        height: 120px;
+        background: #060e80;
+        margin: 5px 15px 20px 4px;
+        border-radius: 15px 0px 20px 0px;
+        float:left;
+        content: none;
+}
+
+
+h1{
+    text-align: left;
+}
+
+a{
+    text-align: center;
+    color: red;
+
+}
+table{
+    width: 140px;
+    height: 100px;
+    margin-top: -500;
+    margin-left: 400px;
+}
+a{
+    margin-left: 38%;
+}
+.here{
+    color: red;
+    margin-left: 0px;
+}
+.islist{
+    position: relative;
+    color: white;
+    margin-top: -20px;
+}
+h2{
+    text-align: left;
+}
+html,body{
+    margin:0px;
+    padding:0px;
+}
+.LetterSpacing{
+    color: royalblue;
+    letter-spacing: 5;
+}
+img{
+    margin-left: 400;
+}
+p {
+    font-size: 15px;
+    margin: 0 40px 0px 20px;
+    line-height: 1.5;
+    padding-top: 0.6vmin;
+}
